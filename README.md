@@ -61,8 +61,8 @@ Download: https://nodejs.org
 node server.js
 ```
 ### 3️⃣ Open browser and visit the routes
-http://localhost:3000/home 
-http://localhost:3000/about 
-http://localhost:3000/contact 
-http://localhost:3000/services 
+http://localhost:3000/home  
+http://localhost:3000/about  
+http://localhost:3000/contact  
+http://localhost:3000/services  
 http://localhost:3000/random   # To test 404 page

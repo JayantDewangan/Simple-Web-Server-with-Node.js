@@ -10,20 +10,20 @@ The server is modular, uses asynchronous file handling, and shows how routing wo
 
 ## 📁 Project Structure
 simple-node-server/
-│ 
-├─ server.js # Main Node.js file 
-├─ router.js # Routing logic module 
-│ 
-├─ views/ # HTML pages served by the server 
-│ ├─ home.html 
-│ ├─ about.html 
-│ ├─ contact.html 
-│ ├─ services.html # Extra route (enhancement) 
-│ └─ 404.html # Custom 404 error page 
-│ 
-└─ public/ 
-└─ css/ 
-└─ styles.css # Website styling
+│
+├─ server.js          # Main Node.js file
+├─ router.js          # Routing logic module
+│
+├─ views/             # HTML pages served by the server
+│   ├─ home.html
+│   ├─ about.html
+│   ├─ contact.html
+│   ├─ services.html  # Extra route (enhancement)
+│   └─ 404.html       # Custom 404 error page
+│
+└─ public/
+    └─ css/
+        └─ styles.css # Website styling
 
 ## 🧠 Key Features
 

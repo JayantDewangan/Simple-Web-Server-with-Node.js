@@ -25,20 +25,6 @@ simple-node-server/
 └─ css/  
 └─ styles.css
 
-## 🧠 Key Features
-
-| Feature | Status |
-|--------|--------|
-| Node.js server using `http` module | ✔ |
-| Handles multiple routes | ✔ |
-| Serves HTML files | ✔ |
-| Serves CSS file | ✔ |
-| Custom 404 page | ✔ |
-| Modular code (server + router) | ✔ |
-| Asynchronous file handling | ✔ |
-
----
-
 ## 🔗 Available Routes
 
 | Route | Description |

@@ -58,16 +58,16 @@ http://localhost:3000/random   # To test 404 page
 
 ## Route Pages Screenshots  
 
-### Home Page
+### 1. Home Page
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/ca0a31c4-c2ce-4fbd-8d5b-72751ea73d50" />  
 
-### About Page  
+### 2. About Page  
 <img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/f830cc7b-0f82-4839-93c1-a5a7a09d3dc5" />  
 
-### Services Page  
+### 3. Services Page  
 <img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/70158229-4def-4e09-a2f7-9a78a9b0eb4e" />  
 
-### Contacts Page  
+### 4. Contacts Page  
 <img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/95e280ea-1e53-45aa-8d9d-3081ccfe759b" />  
 
 ## Terminal Screenshot  

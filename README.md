@@ -9,7 +9,7 @@ The server is modular, uses asynchronous file handling, and shows how routing wo
 ---
 
 ## Project Structure
-simple-node-server/
+simple-node-server/ 
 │  
 ├─ server.js   
 ├─ router.js  

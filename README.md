@@ -1,6 +1,6 @@
-# 🌐 Simple Web Server using Node.js (HTTP Module)
+# Simple Web Server using Node.js (HTTP Module)
 
-## 📌 Overview
+## Overview
 This project demonstrates how to build a basic web server in Node.js using the built-in `http` module — without using frameworks like Express.  
 It supports multiple routes, serves HTML + CSS files, and includes a custom 404 page.
 
@@ -8,7 +8,7 @@ The server is modular, uses asynchronous file handling, and shows how routing wo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 simple-node-server/
 │  
 ├─ server.js   
@@ -25,28 +25,18 @@ simple-node-server/
 └─ css/  
 └─ styles.css
 
-## 🔗 Available Routes
-
-| Route | Description |
-|-------|-------------|
-| `/` or `/home` | Home page |
-| `/about` | About page |
-| `/contact` | Contact page |
-| `/services` | Additional route (enhancement) |
-| ❌ Any other route | Displays custom 404 error page |
-
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
-### 1️⃣ Make sure Node.js is installed
+### 1. Make sure Node.js is installed
 Download: https://nodejs.org
 
-### 2️⃣ Navigate to the project folder and run the server
+### 2. Navigate to the project folder and run the server
 ```bash
 node server.js
 ```
-### 3️⃣ Open browser and visit the routes
+### 3. Open browser and visit the routes
 http://localhost:3000/home  
 http://localhost:3000/about  
 http://localhost:3000/contact  
@@ -54,8 +44,6 @@ http://localhost:3000/services
 http://localhost:3000/random   # To test 404 page  
 
   
-
-
 ## Route Pages Screenshots  
 
 ### 1. Home Page

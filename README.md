@@ -8,25 +8,6 @@ The server is modular, uses asynchronous file handling, and shows how routing wo
 
 ---
 
-## Project Structure
-simple-node-server/ 
-│  
-├─ server.js   
-├─ router.js  
-│  
-├─ views/  
-│ ├─ home.html  
-│ ├─ about.html  
-│ ├─ contact.html  
-│ ├─ services.html  
-│ └─ 404.html  
-│  
-└─ public/  
-└─ css/  
-└─ styles.css
-
----
-
 ## How to Run the Project
 
 ### 1. Make sure Node.js is installed
